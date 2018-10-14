@@ -133,7 +133,7 @@ namespace DmCommon
         }
 
         /// <summary>
-        /// 取32位无符号整型
+        /// 取32位高位无符号整型
         /// </summary>
         /// <param name="data">  字节数组</param>
         /// <param name="offset">偏移</param>
